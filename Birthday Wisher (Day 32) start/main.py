@@ -23,3 +23,5 @@ if now.weekday() == 0:
         quote = choice(quotes)
         send_email(quote)
 
+
+        
